@@ -1,8 +1,6 @@
 # Alt Web
 
-Russian company focused on web development.
-
-Switch to [english version](https://github.com/alt-web/.github/blob/main/profile/README-EN.md).
+Russian company focused on web development. Switch to [English version](https://github.com/alt-web/.github/blob/main/profile/README-EN.md).
 
 Мы поможем вам оказаться в интернете 🚀
 
