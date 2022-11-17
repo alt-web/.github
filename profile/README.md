@@ -10,5 +10,10 @@ Russian company focused on web development. Switch to [English version](https://
 - Почта на вашем домене
 - Аналитика
 
+## Наши проекты
+- [YY Studios](https://github.com/alt-web/yy): сайт для современного агенства
+- [Memento](https://github.com/alt-web/memento): альбом для самых важных фотографий
+- [Alt Web](https://github.com/alt-web/altweb): наша домашняя страница
+
 ## Контакты
 - Отдел разработки: [dev@altweb.tech](mailto:dev@altweb.tech)
