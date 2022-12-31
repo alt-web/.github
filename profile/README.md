@@ -7,13 +7,15 @@ Russian company focused on web development. Switch to [English version](https://
 ## Наши услуги
 - Веб-разработка
 - Администрирование серверов
-- Почта на вашем домене
 - Аналитика
 
 ## Наши проекты
-- [YY Studios](https://github.com/alt-web/yy): сайт для современного агенства
-- [Memento](https://github.com/alt-web/memento): альбом для самых важных фотографий
 - [Alt Web](https://github.com/alt-web/altweb): наша домашняя страница
+- [Nullchan](https://github.com/alt-web/nullchan): анонимный форум нового поколения
+- [YY Studios](https://github.com/alt-web/yy): сайт для современного агенства
+
+## Библиотеки
+- [Next-Shynet](https://github.com/alt-web/next-shynet): библиотека для интеграции Shynet в проект на Next.JS
 
 ## Контакты
 - Отдел разработки: [dev@altweb.tech](mailto:dev@altweb.tech)
